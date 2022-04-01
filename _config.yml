@@ -40,7 +40,7 @@ author: Shailender Kudachi
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   Experienced and effective Specialist with an experienced background in Information Network Security troubleshooting, support, design, testing, and implementation.
